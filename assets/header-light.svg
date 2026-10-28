@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Entre reglas, código y juegos</title>
-<desc id="desc">Cabecera de Enric Pedrico con un tablero, cartas y una red de decisiones.</desc>
+<title id="title">Where rules become games</title>
+<desc id="desc">Enric Pedrico’s header featuring a board, playing cards and a network of decisions.</desc>
 <defs>
  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#204B40" opacity=".16"/></pattern>
 </defs>
@@ -10,10 +10,10 @@
 <rect x="42" y="35" width="9" height="9" rx="2" fill="#183C35"/>
 <text x="65" y="44" fill="#526C62" font-family="ui-monospace, 'Courier New', monospace" font-size="14" letter-spacing="2">ENRIC PEDRICO / @enricpedrico</text>
 <g fill="#183C35" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="64">
- <text x="40" y="130">Entre reglas,</text><text x="40" y="203">código y juegos.</text>
+ <text x="40" y="130">Where rules</text><text x="40" y="203">become games.</text>
 </g>
 <path d="M44 233H105" stroke="#183C35" stroke-width="3"/>
-<text x="120" y="239" fill="#526C62" font-family="Arial, sans-serif" font-size="17">Web · Motores · Optimización</text>
+<text x="120" y="239" fill="#526C62" font-family="Arial, sans-serif" font-size="17">Web · Engines · Optimization</text>
 <circle cx="1042" cy="132" r="108" fill="#C0E875" opacity=".48"/>
 <!-- Decision graph -->
 <g stroke="#526C62" stroke-width="2" fill="none" opacity=".7"><path d="M740 68L799 111L751 167L823 225M799 111L886 65M751 167L720 233M823 225L919 252"/></g>
