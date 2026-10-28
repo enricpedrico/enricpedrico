@@ -4,8 +4,6 @@
   <img alt="Where rules become games. Playing cards, a board and a network of decisions." src="./assets/header-light.svg?v=en" width="100%">
 </picture>
 
-# Enric Pedrico
-
 I build **games and web apps**, and explore **decision engines and optimization models**. I like turning rules, ideas and practical problems into projects you can try.
 
 [Explore the projects](#projects-you-can-try) · [All repositories](https://github.com/enricpedrico?tab=repositories)
