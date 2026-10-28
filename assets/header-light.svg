@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Entre reglas, código y juegos</title>
+<desc id="desc">Cabecera de Enric Pedrico con un tablero, cartas y una red de decisiones.</desc>
+<defs>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#204B40" opacity=".16"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="#F2F1E9"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<path d="M682 30V270" stroke="#A5BAB0" opacity=".45"/>
+<rect x="42" y="35" width="9" height="9" rx="2" fill="#183C35"/>
+<text x="65" y="44" fill="#526C62" font-family="ui-monospace, 'Courier New', monospace" font-size="14" letter-spacing="2">ENRIC PEDRICO / @enricpedrico</text>
+<g fill="#183C35" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="64">
+ <text x="40" y="130">Entre reglas,</text><text x="40" y="203">código y juegos.</text>
+</g>
+<path d="M44 233H105" stroke="#183C35" stroke-width="3"/>
+<text x="120" y="239" fill="#526C62" font-family="Arial, sans-serif" font-size="17">Web · Motores · Optimización</text>
+<circle cx="1042" cy="132" r="108" fill="#C0E875" opacity=".48"/>
+<!-- Decision graph -->
+<g stroke="#526C62" stroke-width="2" fill="none" opacity=".7"><path d="M740 68L799 111L751 167L823 225M799 111L886 65M751 167L720 233M823 225L919 252"/></g>
+<g fill="#F2F1E9" stroke="#526C62" stroke-width="2"><circle cx="740" cy="68" r="7"/><circle cx="751" cy="167" r="7"/><circle cx="720" cy="233" r="7"/><circle cx="823" cy="225" r="7"/><circle cx="886" cy="65" r="7"/></g>
+<!-- Board -->
+<g transform="translate(812 69) rotate(-10 82 82)">
+ <rect x="-8" y="-8" width="176" height="176" rx="13" fill="#214D42"/>
+ <rect width="160" height="160" rx="6" fill="#FAFBF6"/>
+ <g fill="#C0E875"><path d="M0 0h40v40H0zM80 0h40v40H80zM40 40h40v40H40zM120 40h40v40h-40zM0 80h40v40H0zM80 80h40v40H80zM40 120h40v40H40zM120 120h40v40h-40z"/></g>
+ <g fill="#183C35"><circle cx="60" cy="58" r="9"/><path d="M54 68h12l7 21H47zM46 93h28v7H46z"/></g>
+</g>
+<!-- Card -->
+<g transform="translate(1005 98) rotate(13 55 78)">
+ <rect x="5" y="6" width="110" height="158" rx="12" fill="#214D42" opacity=".16"/>
+ <rect width="110" height="158" rx="12" fill="#FAFBF6" stroke="#183C35" stroke-width="2"/>
+ <text x="14" y="28" fill="#183C35" font-family="Georgia, serif" font-size="22">A</text>
+ <path d="M55 48L76 80L55 112L34 80Z" fill="#183C35"/>
+ <path d="M55 59L69 80L55 101L41 80Z" fill="#C0E875"/>
+ <text x="14" y="28" transform="rotate(180 55 79)" fill="#183C35" font-family="Georgia, serif" font-size="22">A</text>
+</g>
+<g transform="translate(752 251)"><rect width="57" height="27" rx="6" fill="#183C35"/><text x="11" y="19" fill="#F2F1E9" font-family="'Courier New', monospace" font-size="17" font-weight="bold">&gt;_</text></g>
+</svg>
